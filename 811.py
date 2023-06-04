@@ -36,7 +36,7 @@ class Solution(object):
             string = "" + str(value) + " " + key
             result.append(string)
 
-        return result
+        return results
 
 # A website domain "discuss.leetcode.com" consists of various subdomains. At the top level, we have "com",
 # at the next level, we have "leetcode.com" and at the lowest level, "discuss.leetcode.com". When we visit a domain
